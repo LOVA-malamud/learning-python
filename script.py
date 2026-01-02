@@ -323,7 +323,7 @@ while True:
                     receipt_lines.append("  " + "─" * 35)
                     receipt_lines.append(f"  Subtotal:        ${total_sum:>10,.2f}")
                     if promo_discount > 0:
-                        receipt_linesx.append(f"  Promo ({applied_code}): -${promo_discount:>10,.2f}")
+                        receipt_lines.append(f"  Promo ({applied_code}): -${promo_discount:>10,.2f}")
                     receipt_lines.append(f"  FINAL TOTAL:     ${final_total:>10,.2f}")
 
                     users[current_user]['balance'] -= final_total

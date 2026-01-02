@@ -69,7 +69,7 @@
         "name": "weed",
         "price": 200,
         "category": "drugs",
-        "stock": 100
+        "stock": 79
     },
     {
         "name": "cocaine",
@@ -129,7 +129,7 @@
         "name": "haroin",
         "price": 400,
         "category": "drugs",
-        "stock": 100
+        "stock": 68
     },
     {
         "name": "M4A1",
