@@ -1,0 +1,320 @@
+[
+    {
+        "name": "laptop",
+        "price": 1200,
+        "category": "electronics",
+        "stock": 100
+    },
+    {
+        "name": "mouse",
+        "price": 50,
+        "category": "electronics",
+        "stock": 100
+    },
+    {
+        "name": "shirt",
+        "price": 100,
+        "category": "fashion",
+        "stock": 96
+    },
+    {
+        "name": "headphones",
+        "price": 300,
+        "category": "electronics",
+        "stock": 100
+    },
+    {
+        "name": "t-shirt",
+        "price": 80,
+        "category": "fashion",
+        "stock": 98
+    },
+    {
+        "name": "shoes",
+        "price": 150,
+        "category": "fashion",
+        "stock": 100
+    },
+    {
+        "name": "pizza",
+        "price": 20,
+        "category": "food",
+        "stock": 100
+    },
+    {
+        "name": "pasta",
+        "price": 25,
+        "category": "food",
+        "stock": 100
+    },
+    {
+        "name": "monitor",
+        "price": 400,
+        "category": "electronics",
+        "stock": 100
+    },
+    {
+        "name": "phone",
+        "price": 800,
+        "category": "electronics",
+        "stock": 100
+    },
+    {
+        "name": "salad",
+        "price": 15,
+        "category": "food",
+        "stock": 100
+    },
+    {
+        "name": "weed",
+        "price": 200,
+        "category": "drugs",
+        "stock": 100
+    },
+    {
+        "name": "cocaine",
+        "price": 500,
+        "category": "drugs",
+        "stock": 100
+    },
+    {
+        "name": "kristina",
+        "price": 10000,
+        "category": "bitches",
+        "stock": 100
+    },
+    {
+        "name": "yuvalzona",
+        "price": 999999,
+        "category": "bitches",
+        "stock": 100
+    },
+    {
+        "name": "tzur karton",
+        "price": 1,
+        "category": "bitches",
+        "stock": 100
+    },
+    {
+        "name": "LSD",
+        "price": 300,
+        "category": "drugs",
+        "stock": 100
+    },
+    {
+        "name": "burger",
+        "price": 10,
+        "category": "food",
+        "stock": 100
+    },
+    {
+        "name": "jeans",
+        "price": 120,
+        "category": "fashion",
+        "stock": 98
+    },
+    {
+        "name": "tablet",
+        "price": 600,
+        "category": "electronics",
+        "stock": 100
+    },
+    {
+        "name": "chocolate",
+        "price": 5,
+        "category": "food",
+        "stock": 100
+    },
+    {
+        "name": "haroin",
+        "price": 400,
+        "category": "drugs",
+        "stock": 100
+    },
+    {
+        "name": "M4A1",
+        "price": 1500,
+        "category": "weapons",
+        "stock": 100
+    },
+    {
+        "name": "AK-47",
+        "price": 1300,
+        "category": "weapons",
+        "stock": 100
+    },
+    {
+        "name": "sniper rifle",
+        "price": 2000,
+        "category": "weapons",
+        "stock": 100
+    },
+    {
+        "name": "pistol",
+        "price": 800,
+        "category": "weapons",
+        "stock": 100
+    },
+    {
+        "name": "grenade",
+        "price": 300,
+        "category": "weapons",
+        "stock": 100
+    },
+    {
+        "name": "drone",
+        "price": 2500,
+        "category": "electronics",
+        "stock": 100
+    },
+    {
+        "name": "smartwatch",
+        "price": 350,
+        "category": "electronics",
+        "stock": 100
+    },
+    {
+        "name": "uliya",
+        "price": 1000,
+        "category": "bitches",
+        "stock": 100
+    },
+    {
+        "name": "lova",
+        "price": 100000000000000,
+        "category": "bitches",
+        "stock": 100
+    },
+    {
+        "name": "ice cream",
+        "price": 7,
+        "category": "food",
+        "stock": 100
+    },
+    {
+        "name": "cola",
+        "price": 3,
+        "category": "food",
+        "stock": 100
+    },
+    {
+        "name": "tesla",
+        "price": 80000,
+        "category": "cars",
+        "stock": 100
+    },
+    {
+        "name": "bmw",
+        "price": 70000,
+        "category": "cars",
+        "stock": 100
+    },
+    {
+        "name": "audi",
+        "price": 60000,
+        "category": "cars",
+        "stock": 100
+    },
+    {
+        "name": "mercedes",
+        "price": 90000,
+        "category": "cars",
+        "stock": 100
+    },
+    {
+        "name": "ferrari",
+        "price": 250000,
+        "category": "cars",
+        "stock": 100
+    },
+    {
+        "name": "lamborghini",
+        "price": 300000,
+        "category": "cars",
+        "stock": 100
+    },
+    {
+        "name": "rpg",
+        "price": 5000,
+        "category": "weapons",
+        "stock": 100
+    },
+    {
+        "name": "knife",
+        "price": 150,
+        "category": "weapons",
+        "stock": 100
+    },
+    {
+        "name": "chiken wigs",
+        "price": 12,
+        "category": "food",
+        "stock": 100
+    },
+    {
+        "name": "fish and chips",
+        "price": 15,
+        "category": "food",
+        "stock": 100
+    },
+    {
+        "name": "brain",
+        "price": 1000000,
+        "category": "yuval",
+        "stock": 100
+    },
+    {
+        "name": "soul",
+        "price": 500000,
+        "category": "yuval",
+        "stock": 100
+    },
+    {
+        "name": "body repairer",
+        "price": 300000,
+        "category": "yuval",
+        "stock": 100
+    },
+    {
+        "name": "big dick",
+        "price": 10000000,
+        "category": "yuval",
+        "stock": 100
+    },
+    {
+        "name": "remove kriz",
+        "price": 2000000,
+        "category": "yuval",
+        "stock": 100
+    },
+    {
+        "name": "brain cells",
+        "price": 500000,
+        "category": "yuval",
+        "stock": 100
+    },
+    {
+        "name": "cofe ",
+        "price": 67,
+        "category": "food",
+        "stock": 100
+    },
+    {
+        "name": "c4",
+        "price": 1000,
+        "category": "weapons",
+        "stock": 100
+    },
+    {
+        "name": "chicken",
+        "price": 150,
+        "category": "food",
+        "stock": 100
+    },
+    {
+        "name": "ice cream",
+        "price": 10.0,
+        "category": "food",
+        "stock": 100
+    }
+]

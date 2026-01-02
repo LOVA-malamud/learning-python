@@ -1,0 +1,27 @@
+{
+    "lova": {
+        "password": "lova",
+        "balance": 100000563.0,
+        "receipts": []
+    },
+    "yuval": {
+        "password": "zona",
+        "balance": 10000000999724.0,
+        "receipts": []
+    },
+    "l": {
+        "password": "l",
+        "balance": 12737442273.3,
+        "receipts": []
+    },
+    "admin": {
+        "password": "1!",
+        "balance": 10000000,
+        "receipts": []
+    },
+    "guest": {
+        "password": "0000",
+        "balance": 1500.0,
+        "receipts": []
+    }
+}
