@@ -27,13 +27,13 @@
         "name": "t-shirt",
         "price": 80,
         "category": "fashion",
-        "stock": 98
+        "stock": 95
     },
     {
         "name": "shoes",
         "price": 150,
         "category": "fashion",
-        "stock": 100
+        "stock": 98
     },
     {
         "name": "pizza",
@@ -75,25 +75,25 @@
         "name": "cocaine",
         "price": 500,
         "category": "drugs",
-        "stock": 100
+        "stock": 79
     },
     {
         "name": "kristina",
         "price": 10000,
         "category": "bitches",
-        "stock": 100
+        "stock": 92
     },
     {
         "name": "yuvalzona",
         "price": 999999,
         "category": "bitches",
-        "stock": 100
+        "stock": 95
     },
     {
         "name": "tzur karton",
         "price": 1,
         "category": "bitches",
-        "stock": 100
+        "stock": 77
     },
     {
         "name": "LSD",
